@@ -84,7 +84,7 @@ Let’s build this as a **community knowledge hub**.
 👋 I'm [Bala Venkatesh](https://balavenkatesh3322.github.io/bala_venkatesh_profile/), an AI learner and builder who believes in learning in public.
 
 - 🌐 [Website/Portfolio](https://balavenkatesh3322.github.io/bala_venkatesh_profile/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bala-venkatesh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bala-venkatesh-67964247/) 
 
 Feel free to connect, collaborate, or suggest a paper you’d like to see annotated next!
 
